@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Ultimate Addon For Elementor
- * Description: Ultimate Addon For Elementor is a full plugin for colleciton of elementor widgets.
- * Plugin URI: https://techbird.org/omnivus
- * Author: TechBird
- * Author URI: http://techbird.org
+ * Description: Ultimate Addon For Elementor is a full plugin for collection of elementor widgets.
+ * Plugin URI: 
+ * Author: Craig Carlos
+ * Author URI: 
  * Version: 1.2.0
  * License: GPL2
  * Text Domain: ultimate
